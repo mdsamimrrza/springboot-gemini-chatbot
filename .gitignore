@@ -1,0 +1,70 @@
+# General
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build directories
+/dist
+/build
+/out
+.next/
+.nuxt/
+
+# Cache directories
+.cache/
+.parcel-cache/
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Frontend specific
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.next/
+/frontend/coverage/
+
+# Backend specific
+/chatbot/target/
+/chatbot/.gradle/
+/chatbot/.idea/
+/chatbot/*.iml
+/chatbot/.vscode/
+/chatbot/.settings/
+/chatbot/bin/
+/chatbot/logs/
+
+# Local development files
+*.local
+
+# Environment variables
+.env*
+!.env.example
