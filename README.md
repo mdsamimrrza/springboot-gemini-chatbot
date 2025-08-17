@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://img.icons8.com/color/96/000000/chatbot.png" alt="AI Chatbot"/>
   <h1>🤖 AI-Powered Chatbot</h1>
   <p>An intelligent chat application built with React + Spring Boot, powered by Google's Gemini AI</p>
   
